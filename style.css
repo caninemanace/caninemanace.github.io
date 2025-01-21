@@ -4,6 +4,11 @@
    background-color: rgb(0, 74, 95);
    margin-left: 30;
    border-radius: 20px;
+   border: 5px solid rgb(255, 255, 255);
+   
+}
+body{
+    background-color: black;
 }
 .title{
     text-align: center;
@@ -31,6 +36,7 @@
     border-radius: 20px;
     margin-top: 20;
     margin-left: 30;
+    border: 5px solid rgb(255, 255, 255);
 }
 .Aboutparagraph{
     text-align: center;
@@ -50,8 +56,187 @@
     margin-top: 20;
     margin-left: 30;
     border: 20;
+    border: 5px solid rgb(255, 255, 255);
 }
 .Contentparagraph{
     text-align: center;
     font-size: 30;
 }
+.laptop1{
+    width: 30vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-left: 18;
+
+}
+.img1{
+    width: 25vw;
+    height: 30vh;
+    border-radius: 20px;
+}
+.laptop2{
+    width: 30vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-left: 595;
+    margin-top: -362;
+}
+.img2{
+    width: 25vw;
+    height: 30vh;
+    border-radius: 20px;
+}
+.laptop3{
+    width: 30vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-left: 1180;
+    margin-top: -362;
+}
+.img3{
+    width: 25vw;
+    height: 30vh;
+    border-radius: 20px;
+}
+.Unreleased{
+    background-color: rgb(0, 74, 95);
+    width: 95vw;
+    height: 165vh;
+    border-radius: 20px;
+    margin-top: 20;
+    margin-left: 30;
+    border: 20;
+    border: 5px solid rgb(255, 255, 255);
+}
+.unreleasedheading{
+    text-align: center;
+    font-size: 30;
+}
+.laptop4{
+    width: 95vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+}
+.img4{
+    width: 25vw;
+    height: 35vh;
+    border-radius: 20px;
+    margin-left: -1300;
+
+}
+.firstp{
+    color: aliceblue;
+    font-size: 25;
+    margin-left: 500;
+    margin-top: -270;
+}
+.laptop5{
+    width: 95vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 100;
+}
+.img5{
+    width: 25vw;
+    height: 35vh;
+    border-radius: 20px;
+    margin-left: -3;
+
+}
+.secondp{
+    color: aliceblue;
+    font-size: 25;
+    margin-left: 500;
+    margin-top: -270;
+}
+.laptop6{
+    width: 95vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 100;
+}
+.img6{
+    width: 25vw;
+    height: 35vh;
+    border-radius: 20px;
+    margin-left: -3;
+}
+.thirdp{
+    color: aliceblue;
+    font-size: 25;
+    margin-left: 500;
+    margin-top: -270;
+}
+.laptop7{
+    width: 95vw;
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    color: aliceblue;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 100;
+}
+.img7{
+    width: 25vw;
+    height: 35vh;
+    border-radius: 20px;
+    margin-left: -3;
+}
+.fourthp{
+    color: aliceblue;
+    font-size: 25;
+    margin-left: 500;
+    margin-top: -270;
+}
+.More{
+    background-color: rgb(0, 74, 95);
+    width: 95vw;
+    height: 95vh;
+    border-radius: 20px;
+    margin-top: 180;
+    border: 20;
+    text-align: center;
+    font-size: 30;
+    border: 5px solid rgb(255, 255, 255);
+}
+.clip2{
+    width: 80vw;
+    height: 50vh;
+    border-radius: 20px;
+}
+.footer{
+    background-color: rgb(0, 74, 95);
+    width: 95vw;
+    height: 5vh;
+    margin-top: 20;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 25;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+
+
+
